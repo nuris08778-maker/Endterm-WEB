@@ -4,9 +4,9 @@ Topic: Online Shop (clothes, gadgets, cosmetics)
 
 ## Group members
 
-- Нұрислам
-- (add name)
-- (add name)
+- Nursultan Nurislam
+- Sarbasov Ayan
+- Zhanassyl Omar
 
 ## Short description
 
@@ -74,10 +74,11 @@ README.md
 
 ## Individual contribution
 
-- Нұрислам: (write what you did)
-- Member 2: (write what they did)
-- Member 3: (write what they did)
+## Individual contribution
+
+- **Nursultan Nurislam**: Created the form validation on `register.html` and `contact.html`: required fields, email check with RegEx, password strength indicator, password confirmation and real-time Bootstrap feedback. Built the new Register page and added it to the navigation menu. Also wrote the README and merged all parts of the code into the main repository.
+- **Sarbasov Ayan**: Created the dynamic search and category filter on `products.html`: real-time search with the `input` / `keyup` event, category buttons, combined search + filter logic, the "No products found" message and the results counter. Also built the image gallery on `about.html` with the lightbox, previous / next arrows, keyboard control and the jQuery `.fadeIn()` / `.fadeOut()` transitions.
+- **Zhanassyl Omar**: Created the dynamic CRUD table on `compare.html`: rendering the products (Read), the Bootstrap modal form for adding (Create) and editing (Update), delete with confirmation (Delete), form validation in the modal and saving data in localStorage. Also tested the whole website on desktop and mobile and published it on GitHub Pages / Netlify.
 
 ## Website link
 
-(add GitHub Pages or Netlify link here)
